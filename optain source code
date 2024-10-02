@@ -1,0 +1,2 @@
+git clone --recurse-submodules <repository>
+cd smart-garden-gateway-public
